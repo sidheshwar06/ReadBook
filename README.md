@@ -14,7 +14,7 @@
 
 ### 삶에 대한 공부
 
--	[Read the book ...](https://silverbullet087.gitbooks.io/today-i-learned/content/)
+-	[Read the book ...](https://silverbullet087.gitbooks.io/readbook/content/)
 
 ### Page
 
